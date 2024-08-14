@@ -54,7 +54,16 @@ I'm always up for a coding challenge or learning something new. When I'm not cod
 </p>
 
 <h3>My GitHub contributions summary</h3>
+<div align="center">
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=graveFTS&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" />
+  </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=graveFTS&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+  <!-- GitHub Stats -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=graveFTS&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
+</div>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=graveFTS&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+<div align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square" />
+</div>
