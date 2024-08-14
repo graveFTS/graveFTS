@@ -65,5 +65,5 @@ I'm always up for a coding challenge or learning something new. When I'm not cod
 </div>
 
 <div align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=graveFTS&color=blue&style=flat-square" />
 </div>
